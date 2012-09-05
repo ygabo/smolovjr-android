@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuedithelp"
+        android:alphabeticShortcut="a"
+        android:numericShortcut="1"
+        android:title="Help"/>
+    <item
+        android:id="@+id/menueditback"
+        android:alphabeticShortcut="q"
+        android:numericShortcut="4"
+        android:title="Back"/>
+</menu>

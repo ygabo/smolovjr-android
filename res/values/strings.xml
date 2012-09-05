@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SmolovJrCalcActivity!</string>
+    <string name="app_name">Smolov Jr. Calculator</string>
+    <string name="day1">6 rep  x 6 set x</string>
+    <string name="day2">7 rep  x 5 set x</string>
+    <string name="day3">8  rep  x 4 set x</string>
+    <string name="day4">10 rep x 3 set x</string>
+    <string name="app_namehere">Smolov</string>
+
+</resources>
